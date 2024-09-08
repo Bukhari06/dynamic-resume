@@ -1,0 +1,63 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #0c0b0c;
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: #5a2057;
+  }
+  
+  h1, h2 {
+    text-align: center;
+    color: rgb(2, 86, 92);
+  }
+  
+  form {
+    background-color: rgb(1, 27, 75);
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  input, textarea {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+  }
+  
+  .button {
+    background-color: rgb(2, 86, 92);
+    color: white;              
+    padding: 10px 20px;         
+    border: none;               
+    border-radius: 50px;        
+    cursor: pointer;            
+    font-size: 16px;            
+    align-items: center;
+  }
+
+  
+  .button:hover {
+    background-color: #5a2057; 
+  }
+  
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+  #resumePreview {
+    margin-top: 20px;
+    padding: 20px;
+    background-color: rgb(145, 62, 62);
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(26, 85, 39, 0.1);
+  }
+  
